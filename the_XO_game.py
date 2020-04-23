@@ -5,8 +5,8 @@ class main:
     player1 = 0 #to take input from player 1
     player2 = 0 #to take input from player 2
     count = 0
-    player1_name = "Dinesh"
-    player2_name = "Samruddhi"
+    player1_name = "p1"
+    player2_name = "p2"
     temp_list = [0,0,0,0,0,0,0,0,0]
 m1 = main()
 
